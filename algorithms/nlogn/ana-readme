@@ -1,0 +1,3 @@
+compile: g++ main.cpp grupo.cpp Corpo.cpp No.cpp Segmento.cpp Tupla.cpp -o teste
+run: ./teste file
+radius setted inside main.cpp

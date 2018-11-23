@@ -1,0 +1,2 @@
+$ pgc++ -g FoF0n2-openacc.cpp -o teste -ta=nvidia:nvidia -Minfo
+$

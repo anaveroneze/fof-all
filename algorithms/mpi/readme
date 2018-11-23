@@ -1,0 +1,2 @@
+$ mpicc my_mpi_application.c -o my_mpi_application
+$ mpiexec -np 2 inputfile
